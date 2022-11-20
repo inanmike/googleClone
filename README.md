@@ -1,3 +1,3 @@
-#Google Clone
+# Google Clone
 
 ![ss](/img/project.png)
