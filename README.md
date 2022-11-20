@@ -1,3 +1,3 @@
 #Google Clone
 
-[](/img/project.png)
+[ss](/img/project.png)
